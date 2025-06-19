@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Karnati Global Export Pvt. Ltd.</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f9f9f9; color: #333; }
+    header, footer { background-color: #2e7d32; color: white; padding: 20px; text-align: center; }
+    nav { background-color: #444; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 40px 20px; max-width: 1000px; margin: auto; background: white; margin-bottom: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h1, h2, h3 { color: #2e7d32; }
+    .contact-info, .cert-list, .products-list, .catalog-list, .updates-list { list-style: none; padding: 0; }
+    .contact-info li, .cert-list li, .products-list li, .catalog-list li, .updates-list li { margin-bottom: 10px; }
+    .catalog-list a, .updates-list a { color: #2e7d32; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>KARNATI GLOBAL EXPORT PRIVATE LIMITED</h1>
+  <p>Trusted Supplier of Agro, Herbal, Pharmaceutical & Ayurvedic Products</p>
+</header>
+
+<nav>
+  <a href="#about">About Us</a>
+  <a href="#products">Products</a>
+  <a href="#catalog">Catalog</a>
+  <a href="#updates">Updates</a>
+  <a href="#certifications">Certifications</a>
+  <a href="#global">Global Reach</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>Karnati Global Export Pvt. Ltd. is an Indian export company specializing in agriculture, herbal, pharmaceutical, and Ayurvedic products. We cater to international clients based on purchase orders or custom requirements, ensuring quality, documentation, and logistics.</p>
+</section>
+
+<section id="products">
+  <h2>Products & Services</h2>
+  <h3>Agro Commodities</h3>
+  <ul class="products-list">
+    <li>White Chickpeas (Kabuli Chana)</li>
+    <li>Basmati & Non-Basmati Rice</li>
+    <li>Spices: Chilli Powder, Turmeric</li>
+    <li>Tea Powder, Pulses, Lentils</li>
+  </ul>
+  <h3>Herbal & Ayurvedic Products</h3>
+  <ul class="products-list">
+    <li>Neem, Tulsi, Amla, Ashwagandha powders</li>
+    <li>Herbal Teas, Oils, Capsules</li>
+  </ul>
+  <h3>Pharmaceutical Products</h3>
+  <ul class="products-list">
+    <li>OTC Medicines (Tablets, Syrups)</li>
+    <li>Medical Supplies (PPE, Gloves, Masks)</li>
+    <li>Supplements & Nutraceuticals</li>
+  </ul>
+</section>
+
+<section id="catalog">
+  <h2>🛍️ Catalog & Product Gallery</h2>
+  <p>Download our product catalogs and view product samples below:</p>
+  <ul class="catalog-list">
+    <li><a href="#">📄 Agro Product Catalog (PDF)</a></li>
+    <li><a href="#">📄 Herbal & Ayurvedic Catalog (PDF)</a></li>
+    <li><a href="#">📄 Pharmaceutical Supplies List (PDF)</a></li>
+    <li><a href="#">🖼️ Product Gallery (Image Album)</a></li>
+  </ul>
+</section>
+
+<section id="updates">
+  <h2>📰 Latest Updates & Price Quotes</h2>
+  <p>We frequently update seasonal pricing and export offers. Check back regularly or contact us for the latest quotes.</p>
+  <ul class="updates-list">
+    <li><a href="#">📌 June 2025: Chickpea FOB Offer – ₹XX/kg (Request Full Quote)</a></li>
+    <li><a href="#">📌 New Ayurvedic Capsules Range Added (View Details)</a></li>
+    <li><a href="#">📌 Export Clearance Guide (Kazakhstan Buyers)</a></li>
+  </ul>
+</section>
+
+<section id="certifications">
+  <h2>Certifications & Compliance</h2>
+  <ul class="cert-list">
+    <li>IEC Code: AALCK8020E</li>
+    <li>GST: 37AALCK8020E1ZK</li>
+    <li>FSSAI, APEDA, AYUSH, Spices Board Registered</li>
+    <li>COA, MSDS, Phytosanitary, Certificate of Origin</li>
+  </ul>
+</section>
+
+<section id="global">
+  <h2>Global Reach</h2>
+  <p>We are currently exporting to:</p>
+  <ul>
+    <li>Kazakhstan 🇰🇿</li>
+    <li>Russia 🇷🇺</li>
+    <li>UAE 🇦🇪</li>
+    <li>Qatar 🇶🇦</li>
+    <li>Saudi Arabia 🇸🇦</li>
+    <li>Kyrgyzstan 🇰🇬</li>
+  </ul>
+  <p>Import Partner: <strong>KR PRIVATE LIMITED LLP</strong> (BIN: 230440036170)</p>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <ul class="contact-info">
+    <li><strong>Email (India):</strong> karnatiglobalexports@gmail.com</li>
+    <li><strong>Email (Kazakhstan):</strong> krpvtltd.org@gmail.com</li>
+    <li><strong>Phone / WhatsApp:</strong> +91 6302047300</li>
+    <li><strong>Office Address:</strong> H. No. 1-244/2, Talamudipi, Midthuru, Nandyal, Andhra Pradesh – 518508</li>
+  </ul>
+  <p>Send your requirements or purchase orders, and we will respond within 24 hours.</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Karnati Global Export Pvt. Ltd. | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
